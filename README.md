@@ -21,7 +21,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanagharat&layout=compact&theme=radical)
 ### 📊 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/sanjanagharat?theme=radical)
+![LeetCode Stats](https://leetcard.jacoblin.cool/sanjanagharat16?theme=radical)
 
 ---
 
