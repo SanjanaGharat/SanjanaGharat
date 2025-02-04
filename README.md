@@ -1,10 +1,13 @@
-👋 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Sanjana!;Welcome+to+my+GitHub!&center=true&size=22)  
+<p align="center">
+  👋 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Sanjana!;Welcome+to+my+GitHub!&center=true&size=22" />
+</p>
 
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SanjanaGharat&color=blue)  
 ![Followers](https://img.shields.io/github/followers/SanjanaGharat?style=social)  
 ![GitHub Stars](https://img.shields.io/github/stars/SanjanaGharat?style=social)  
+
 🚀 Passionate Developer | 🌐 Web Enthusiast | 🤖 ML Explorer | 🔗 Blockchain Learner
 
 ---
