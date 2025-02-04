@@ -1,7 +1,10 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Sanjana!;Welcome+to+my+GitHub!&center=true&size=22) 👋
-![Profile Views](https://komarev.com/ghpvc/?username=SanjanaGharat&color=blue)
-![Followers](https://img.shields.io/github/followers/SanjanaGharat?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/SanjanaGharat?style=social)
+👋 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Sanjana!;Welcome+to+my+GitHub!&center=true&size=22)  
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=SanjanaGharat&color=blue)  
+![Followers](https://img.shields.io/github/followers/SanjanaGharat?style=social)  
+![GitHub Stars](https://img.shields.io/github/stars/SanjanaGharat?style=social)  
 🚀 Passionate Developer | 🌐 Web Enthusiast | 🤖 ML Explorer | 🔗 Blockchain Learner
 
 ---
