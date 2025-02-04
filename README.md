@@ -42,9 +42,8 @@
 
 ### 📩 Contact Me
 📧 **Email:** [sanjanagharat16@gmail.com](mailto:sanjanagharat16@gmail.com)  
-🌐 **Portfolio:** [MyPortfolio](#)  
-📱 **LinkedIn:** [sanjanagharat](#)  
-🐦 **Twitter:** [sanjanagharat](#)
+🌐 **Portfolio:** [MyPortfolio](https://portfolio-silk-six-51.vercel.app/)  
+📱 **LinkedIn:** [sanjanagharat](www.linkedin.com/in/sanjana-gharat-b62752250)  
 
 ---
 
