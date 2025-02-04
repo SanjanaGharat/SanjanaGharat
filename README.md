@@ -16,7 +16,7 @@
 ---
 ### 📅 GitHub Streak
 
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=SanjanaGharat&show_icons=true&theme=radical)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SanjanaGharat&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanagharat&layout=compact&theme=radical)
 ### 📊 LeetCode Stats
