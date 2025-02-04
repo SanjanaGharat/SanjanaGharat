@@ -15,6 +15,8 @@
 
 ---
 ### 📅 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjanagharat&theme=radical)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=SanjanaGharat&theme=radical)
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SanjanaGharat&theme=radical)
 
