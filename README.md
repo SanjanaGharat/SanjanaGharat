@@ -25,19 +25,8 @@
 ---
 ### 📅 GitHub Streak
 
-![Snake animation](https://github.com/SanjanaGharat/SanjanaGharat/blob/output/github-contribution-grid-snake.svg)
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanjanaGharat&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaGharat&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=SanjanaGharat&color=blue)
-![Followers](https://img.shields.io/github/followers/SanjanaGharat?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/SanjanaGharat?style=social)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjanagharat&theme=radical)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=SanjanaGharat&theme=radical)
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SanjanaGharat&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanagharat&layout=compact&theme=radical)
 ### 📊 LeetCode Stats
