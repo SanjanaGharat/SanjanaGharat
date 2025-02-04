@@ -15,6 +15,17 @@
 
 ---
 ### 📅 GitHub Streak
+
+![Snake animation](https://github.com/SanjanaGharat/SanjanaGharat/blob/output/github-contribution-grid-snake.svg)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Sanjana!;Welcome+to+my+GitHub!&center=true&size=22)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanjanaGharat&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaGharat&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=SanjanaGharat&color=blue)
+![Followers](https://img.shields.io/github/followers/SanjanaGharat?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/SanjanaGharat?style=social)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjanagharat&theme=radical)
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=SanjanaGharat&theme=radical)
 
